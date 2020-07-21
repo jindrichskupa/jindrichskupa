@@ -4,6 +4,8 @@
 
 Summary: https://profile-summary-for-github.com/user/jindrichskupa
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W51YCS3)
+
 <!--
 **jindrichskupa/jindrichskupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
